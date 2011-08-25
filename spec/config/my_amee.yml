@@ -1,0 +1,6 @@
+production:
+  url: https://my.amee.com
+  secret_key: foo999
+development:
+  url: https://my-test.amee.com
+  secret_key: blah1234

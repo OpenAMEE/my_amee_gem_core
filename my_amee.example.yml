@@ -1,3 +1,3 @@
 development:
-  url: http://my.amee.com
+  url: https://my.amee.com
   secret_key: <secret_key_for_app_goes_here - delete if you are only using user SSO functionality>
