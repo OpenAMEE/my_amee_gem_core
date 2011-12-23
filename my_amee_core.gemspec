@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
   s.name = "my_amee_core"
-  s.version = "1.0.0"
-  s.date = "2009-11-20"
+  s.version = "1.1.0"
+  s.date = "2011-01-01"
   s.summary = "Rails plugin for core my.amee.com services"
-  s.email = "james@amee.cc"
-  s.homepage = "http://my.amee.com"
+  s.email = "james@amee.com"
+  s.homepage = "https://my.amee.com"
   s.has_rdoc = true
   s.authors = ["James Smith"]
   s.files = ["README", "COPYING"] 
