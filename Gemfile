@@ -7,4 +7,5 @@ group :development, :test do
   gem 'rspec', '1.3.2'
   gem 'rcov'
   gem 'flexmock'
+  gem 'builder' # For ci_reporter
 end
