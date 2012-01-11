@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'rake', '~> 0.9.2'
 gem 'json_pure'
 
 group :development, :test do
